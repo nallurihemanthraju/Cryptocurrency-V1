@@ -1,0 +1,15 @@
+.bodyContainerIMG{
+    width: 20%;
+  }
+.titlebodyIMG{
+ margin-left: 30%;
+ width:15%;
+ margin-top: -2%;
+}
+.bodyContainer{
+/* background-image: url('https://www.simplilearn.com/ice9/free_resources_article_thumb/10_Crypto_Predictions_for_2022.jpg');    */
+background-color:rgb(50, 222, 182);
+height: 100%;
+margin-top: 0px;
+width: 100%;
+} 
